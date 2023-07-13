@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Ichiban Anime Express</title>
+</head>
+<body background="bg1.jpg">
+	<p align="center">
+		<font size="12" face="impact" color="pink">
+			Ichiban Anime Express
+		</font></p>
+
+	<p align="center"> 
+		<font size="3" face="impact" color="pink">
+			Your go-to anime streaming website with no delays and no annoying ads
+		</font></p>
+
+	<hr color="blue">
+<p align="center"><font size="6" face="Times New Roman" color="pink">
+<b>THE BIG THREE
+</b></font></p>
+
+<p align="center">
+<img src="naruto.jpg" width="300" height="500" >
+<img src="onepiece.jpg" width="300" height="500" >
+<img src="bleach.png" width="300" height="500" >
+</p>
+
+<style>
+table, th, td, tr {border:1px solid blue;}
+</style>
+
+<p align="center" ><table style="color:indigo; width:50%;">
+
+<caption><font size="6" face="Times New Roman" color="indigo">Top 10 Anime of the Week</font></caption>
+
+<tr><th>RANK</th><th>TITLE</th><th>VOTES</th></tr>
+
+<tr><th>1</th><th>Oshi no Ko</th><th>10.83%</th></tr>
+<tr><th>2</th><th>The Dangers in My Heart</th><th>7.41%</th></tr>
+<tr><th>3</th><th>Tengoku Daimakyou</th><th>6.88%</th></tr>
+<tr><th>4</th><th>Loving Yamada at Lv999</th><th>5.59%</th></tr>
+<tr><th>5</th><th>Hell’s Paradise</th><th>5%</th></tr>
+<tr><th>6</th><th>VINLAND SAGA Season 2</th><th>3.79%</th></tr>
+<tr><th>7</th><th>Demon Slayer: Swordsmith Village Arc</th><th>3.74%</th></tr>
+<tr><th>8</th><th>Dr Stone: New World</th><th>3.58%</th></tr>
+<tr><th>9</th><th>Skip and Loafer</th><th>3.3%</th></tr>
+<tr><th>10</th><th>Kubo Won’t Let Me Be Invisible</th><th>3.06%</th></tr>
+
+</table></p>
+
+
+                 <hr color="blue">
